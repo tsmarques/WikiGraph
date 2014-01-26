@@ -9,7 +9,6 @@ import wiki.tests.Tests;
 public class WikiGraph {
 	private static Scanner input;
 
-	//PIM
 	static void makeTests() {
 		input = new Scanner(System.in);
 		Tests test = new Tests();
