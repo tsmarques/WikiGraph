@@ -1,6 +1,6 @@
 #WikiGraph
 
-WikiGraph is a small software intended to help students test and understand graphs and the algorithms applied in this Data Structures. It is still in development, so the code might not be optimized and cleaned.
+WikiGraph is a small software intended to help students test and understand graphs and the algorithms applied in this data structure. It is still in development, so the code might not be optimized and cleaned and some functionalities are not working.
 
 ###Algorithms Implemented
 
@@ -18,5 +18,5 @@ WikiGraph is a small software intended to help students test and understand grap
 
 ###Bugs
 
-      * Time it takes to run an algorithm is displayed as zero
+      * Time it takes to run an algorithm is always displayed as zero
 
